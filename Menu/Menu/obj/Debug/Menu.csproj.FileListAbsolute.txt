@@ -1,0 +1,17 @@
+C:\Users\Mr. I'm\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Mr. I'm\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Mr. I'm\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Form2.resources
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Form3.resources
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Form4.resources
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Form5.resources
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Form6.resources
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.csproj.ResolveComReference.cache
+C:\Users\Mr. I'm\source\repos\Menu\Menu\obj\Debug\Menu.Form7.resources
